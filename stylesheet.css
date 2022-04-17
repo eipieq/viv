@@ -1,0 +1,107 @@
+/*******************
+ *      FONTS      *
+ *******************/
+
+@font-face {
+    font-family: 'Bold';
+    src: url("GlyphWorld-Meadow.otf");
+}
+
+@font-face {
+    font-family: 'Regular';
+    src: url("Regular.otf");
+}
+
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+    word-break: keep-all; 
+    color:#000000 
+}
+
+/*******************
+ *      LINKS      *
+ *******************/
+
+a { 
+    color: #ffffff; 
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Regular;
+}
+
+a:hover {
+ text-decoration: underline;
+ color: #ff0055; 
+}
+
+
+/*******************
+ *      HEADINGS      *
+ *******************/
+
+html,body {
+    width: 100%;
+    height: 100%;
+    font-size: 100%;
+    overflow-x: hidden;
+    padding: 1vh 1vw;
+    margin: 0;
+
+}
+#vanta {
+    position: absolute;
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+
+}
+
+/* Hi, I'm Viv*/
+
+h1 {
+    font-family: 'Bold';
+    color: #ffffff;
+    font-size: 2.5em;
+    width:100%;
+    text-align: center;
+    margin-top: 2em;
+    display: block;
+    align-content: center;
+}
+
+h2 {
+    font-family: 'Regular';
+    color: #ffffff;
+    font-size: 1.2em;
+    width:100%;
+    text-align: center;
+    align-content: center;
+    display: block;
+}
+
+
+ /*******************
+ *      MOBILE      *
+ *******************/
+
+ @media screen and (max-width: 450px)
+ 
+  
+/* Hi, I'm Viv*/
+
+h1 {
+    font-family: 'Bold2';
+    font-size: 0.5rem;
+    align-items: center;
+}
+
+        
+
+    }
