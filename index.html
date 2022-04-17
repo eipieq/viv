@@ -4,10 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>eipieq/title>
+    <title>Anil K.</title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css" />
     <link rel="javascript" href="radial-gradient.js">
-    <link rel="icon" href="reddot.png">
  
 </head>
 
@@ -24,6 +23,7 @@
 <h2>
 नमस्ते<br>
 मेरे अंतरिक्ष में आपका स्वागत है<br><br>
+<span id="clock" style="color:#ffffff;"></span><br><br>
 <a href="work.html">work</a>
 ·
 <a href="aboutme.html">about me</a>
@@ -32,6 +32,7 @@
 
  
 </h2>
+
 
     <div id="vanta"></div>
 <script src=https://cdn.jsdelivr.net/gh/tengbao/vanta@master/vendor/three.r119.min.js></script>
@@ -52,6 +53,24 @@ VANTA.HALO({
   xOffset: 0.05,
   size: 3.0
 })
+</script>
+<script type="text/javascript">
+    var clockElement = document.getElementById('clock');
+
+    function clock() {
+        var date = new Date();
+
+        // Replace '400px' below with where you want the format to change.
+        if (window.matchMedia('(max-width: 400px)').matches) {
+            // Use this format for windows with a width up to the value above.
+            clockElement.textContent = date.toLocaleString();
+        } else {
+            // While this format will be used for larger windows.
+            clockElement.textContent = date.toLocaleString();
+        }
+    }
+
+    setInterval(clock, 1000);
 </script>
     </body>
 
