@@ -1,0 +1,33 @@
+We all love music, be it pop or jazz. And everyone is a bathroom singer, including me. And haven't we tried saying sentences as if they were a song? Especially when we're happy. For example, try saying this:
+
+"The club isn't the best place to find a lover, so the bar is where I go"
+
+You knew the next lines, right? And on top of that, you sang them. And not only that, you sang it just like Ed Sheeran in "Shape of You." But why? Why can't we find a new style for this song? Why is music so contagious? And why is it so hard to let it go unheard when you've already heard it?
+
+I'll be sure to answer these profound questions. But imagine yourself with me for some time. What if you could sing these songs with a new melody, a new tone, and a new feeling. Better yet, what if you could express your thoughts as a song. What if one day you could sing as seamlessly as you speak? Wouldn't that be fun, spectacular, and magical in many ways?
+
+That's what I'm working on right now. AI Beats is all about songs, music, beats, melody, and feelings. It understands you and what you want to express. So it's still you communicating, it's just that your medium has changed from words to songs.
+
+Your words are first understood by the AI, it serves as a base. Then, depending on your emotions, the best beat is added to your voice, like jelly on bread. On top of that, a layer of melody is added like cream. And finally, the instruments are added on top like the topping. Finally, we bake a perfect cake for you. But don't worry, you don't have to choose only this cake. AI Beat also prepares other songs for you to choose from. And the best part is that you can edit anything on it. So, you are the hero, AI Beat helps you express yourself better.
+
+It will be a tool for people of all backgrounds. And the only reason it's possible is that it's music. And everyone listens to it, so no one is a noob in this field. People who just want to make some music can use AI Beats. Someone who has written heartfelt lyrics can use it to create studio-quality music from their bedroom. And someone who already has a studio can still use it with their ideas and build on them, and AI Beats will help them do it. It will save them a lot of time and money, and they won't lose their authenticity because they can edit every aspect of the song.
+
+Now we get to the technical side of things. Is it difficult? Yes! Absolutely. That's also why I'm so excited about it. It's challenging, but the fruits will be groundbreaking. And I would love to be the epicenter of that revolution.
+
+Is it technologically possible? Hmm, that's a good question. And the answer is 100% yes. But there's room for more. OpenAI's Jukebox (https://openai.com/blog/jukebox/) is a great example that shows it's possible, and it's certainly a step in the right direction. Does that mean I can just go to their GitHub, steal their code, make a few small changes and everything is green? NO! I will have to come up with my own algorithms to train my AI to do this. OpenAI's end goals and mine are different. They wanted to create music, and that's it. Yes, sometimes music with lyrics, but it's still different than understanding emotions, then adding beats, and making things from a humanistic approach.
+
+Certainly, OpenAI's research is a great starting point to discover, in fact, that's one of the many sources I learn from. Including Deepmind 's Wavenet (https://arxiv.org/pdf/1609.03499.pdf). It's a brilliant piece of art and technology that is both fascinating and effective.
+
+There are plenty of challenges, and I acknowledge them. One of them is that there is no set way to do this. So, I will play the role of a researcher and invent a new technology or algorithm to be able to do this. It will be similar to the physics theory I wrote about time, about which you will see much more in my Cool Projects section.
+
+Another big challenge I'm facing right now is that of Data Collection. If you've ever worked with an ML model, you'll know that it's data-hungry. And to create something lifelike and something that feels natural requires tons of data. By my estimates and calculations, I need about 100,000 songs and vocals to train my model. That's about 300,000 minutes of songs and 300,000 minutes of vocals. I know that's a lot, but after all, we're talking about music, and we have millions of it.
+
+One amazing thing I'm working on is how to reduce the amount of data needed to train the AI. And do it without sacrificing quality. If we can get this research to work, the time it takes to make AI Beats a reality will be significantly reduced. And then the same amount of data will further increase efficiency.
+
+Alongside that, I am working on realistic text to speech. This may not seem to have much to do with AI Beats at first glance, but it has proven effective so far. Not only do I need to know how to work with audios, but text and emotions are an essential part of it. And I'm very happy to say that text to speech works well, and it's incredible. You can listen to the example in the audio version of this blog. You can listen to this entire text as audio. In fact, I saw an opportunity to start a company around this idea, so I did. More about that in my Cool Projects section.
+
+I'm on the right path, and I believe in myself that I can achieve this, and the feeling, once it's done, will be insane. If the journey is already this exciting, I can only imagine what will happen once it's done.
+
+I'm joined by Anil, whose marketing skills never fail to impress me and he is even more into music than I am. He's an old friend explaining the reason why we get along so well. He's not as deep into technology as me, but he's learning just like I am learning marketing and other essential skills so we can both understand and appreciate each other's efforts and be helpful when needed.
+
+So far, it's been a fun ride. And it will certainly be a roller coaster from here on. The improvements are happening every day and sure enough, it will be groundbreaking one day.
